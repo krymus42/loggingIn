@@ -1,6 +1,6 @@
 # loggingIn
 
 Simple login system in node.js .
- / route is registering 
- /login route is logging in
+ / route is for registering 
+ /login route is for logging in
  
